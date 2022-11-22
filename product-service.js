@@ -1,15 +1,13 @@
-
 /*********************************************************************************
-*  WEB322 – Assignment 05
-4
+*  WEB322 – Assignment 04
 *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source 
 *  (including 3rd party web sites) or distributed to other students.
 * 
-*  Name: Faizal Aslam          Student ID: 152121216        Date: 2022/10/06
-*  Online (Cyclic) Link:  https://sparkling-garment-toad.cyclic.app/
+*  Name: Faizal Aslam Student ID: _152121216_____________ Date: _2022-11-20_____________
 *
-********************************************************************************/ 
-
+*  Online (Cyclic) Link: https://teal-impossible-caridea.cyclic.app/
+*
+********************************************************************************/
 
 const Sequelize = require('sequelize');
 
